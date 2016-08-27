@@ -3,7 +3,7 @@ layout: post
 title: An APC40 Mapping for Traktor
 ---
 
-![APC40 Traktor Mapping](https://raw.githubusercontent.com/selftext/selftext.github.io/master/assets/apc40_traktor_mapping.png)
+![APC40 Traktor Mapping](/images/apc40_traktor_mapping.png)
 
 Here’s the custom APC40 Traktor mapping I use when DJing with [The Company Soundsystem](https://soundcloud.com/thecompanysoundsystem). I made a little graphic to show how everything is laid out. The blue italics mean the shift button should be held down in combination with the control.
 
