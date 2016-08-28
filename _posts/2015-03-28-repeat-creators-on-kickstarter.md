@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Repeat Creators on Kickstarter
 ---
 

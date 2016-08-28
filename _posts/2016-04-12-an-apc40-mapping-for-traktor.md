@@ -1,5 +1,4 @@
 ---
-layout: post
 title: An APC40 Mapping for Traktor
 ---
 

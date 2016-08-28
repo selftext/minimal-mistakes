@@ -1,5 +1,4 @@
 ---
-layout: post
 title: A Second Mime Admirer
 ---
 
