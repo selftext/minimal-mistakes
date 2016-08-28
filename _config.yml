@@ -8,7 +8,7 @@ name                     : "Jeremy Salfen"
 description              : > # this means to ignore newlines until "url:"
   There is no quality in this world that is not what it is merely by contrast. Nothing exists in itself.
 url                      : "https://jeremysalfen.com"
-baseurl                  : "/"
+baseurl                  : # "/"
 repository               : "selftext/selftext.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
@@ -75,7 +75,7 @@ analytics:
 # site author
 author:
   name             : "Jeremy Salfen"
-  avatar           : "bio-photo.jpg" # placed in /images/
+  avatar           : "heart_eyes_with_calculator.png" # placed in /images/
   bio              : "Director of Data at Kickstarter"
   location         : "NYC"
   email            :
