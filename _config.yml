@@ -7,7 +7,7 @@ title_separator          : "-"
 name                     : "Jeremy Salfen"
 description              : > # this means to ignore newlines until "url:"
   There is no quality in this world that is not what it is merely by contrast. Nothing exists in itself.
-url                      : "https://jeremysalfen.com"
+url                      : "http://jeremysalfen.com"
 baseurl                  : # "/"
 repository               : "selftext/selftext.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
