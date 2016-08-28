@@ -1,0 +1,30 @@
+#!/bin/bash -e
+
+##
+# Bootstrap script!
+
+# Installing homebrew
+if ! which brew > /dev/null; then
+  echo "Installing homebrew"
+  /usr/bin/ruby -e "$(/usr/bin/curl -fksSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+fi
+
+# Run commands in Brewfile
+echo "Updating homebrew..."
+brew update
+
+echo "Installing homebrew packages..."
+brew install rbenv
+brew install ruby-build
+brew install git
+
+# Install local ruby version with rbenv
+rbenv exec ruby -v || rbenv install `cat .ruby-version`
+gem list rbenv-rehash | grep rbenv-rehash > /dev/null || gem install rbenv-rehash
+
+bundle version || gem install bundler
+rbenv rehash # Ensure bundle is in the path
+bundle check || bundle install
+
+# Sucess!
+echo "Success!"
