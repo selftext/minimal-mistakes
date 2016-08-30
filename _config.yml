@@ -75,7 +75,7 @@ analytics:
 # site author
 author:
   name             : "Jeremy Salfen"
-  avatar           : "heart_eyes_with_calculator.png" # placed in /images/
+  avatar           : "heart_eyes_with_calculator_medium.png" # placed in /images/
   bio              : "Director of Data at Kickstarter"
   location         : "NYC"
   email            :
