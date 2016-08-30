@@ -1,5 +1,6 @@
 ---
 title: An APC40 Mapping for Traktor
+excerpt: "Here’s the custom APC40 Traktor mapping I use when DJing with The Company Soundsystem."
 ---
 
 ![APC40 Traktor Mapping](/images/apc40_traktor_mapping.png)
