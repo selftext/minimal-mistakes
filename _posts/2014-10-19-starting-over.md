@@ -1,5 +1,8 @@
 ---
 title: Starting Over
+excerpt: "Where I'm going. Where I've been."
+header:
+  overlay_color: "#333"
 ---
 
 I recently shuttered my Wordpress blog www.onceyougodigital.com. I had two problems with it:

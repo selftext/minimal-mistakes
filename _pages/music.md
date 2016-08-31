@@ -3,6 +3,8 @@ layout: archive
 permalink: /music/
 title: "Music"
 author_profile: true
+header:
+  overlay_color: "#333"
 ---
 
 [The Company]
