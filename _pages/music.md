@@ -7,12 +7,16 @@ header:
   overlay_color: "#333"
 ---
 
-[The Company]
+I play a variety of instruments, none of them particularly well. I also write music. 
 
-[Jackson Arms]
-
-[Budget Cuts Music]
-
-[The Company]: https://soundcloud.com/thecompanysoundsystem
-[Jackson Arms]: https://soundcloud.com/jacksonarms
-[Budget Cuts Music]: http://budgetcutsmusic.com
+Here's a list of music projects I can recall being involved with, in rough chronological order:
+- Luin
+- Chris & Eric (& sometimes Jeremy)
+- The Luxury Tax
+- [Budget Cuts Music](http://budgetcutsmusic.com)
+- The Germans
+- Can't Complain
+- Burbank International
+- [Jackson Arms](https://soundcloud.com/jacksonarms)
+- What Model Citizens
+- [The Company](https://soundcloud.com/thecompanysoundsystem)
