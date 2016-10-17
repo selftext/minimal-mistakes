@@ -7,9 +7,10 @@ header:
   overlay_color: "#333"
 ---
 
-I play a variety of instruments, none of them particularly well. I also write music. 
+I play a variety of instruments. I also write music. 
 
 Here's a list of music projects I can recall being involved with, in rough chronological order:
+
 - Luin
 - Chris & Eric (& sometimes Jeremy)
 - The Luxury Tax
