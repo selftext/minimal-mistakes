@@ -2,7 +2,7 @@
 title: Repeat Creators on Kickstarter
 excerpt: "An analysis of creators who launch multiple projects on Kickstarter."
 header:
-  overlay_color: "#333"
+  overlay_color: "#345"
 ---
 
 I contributed to [this blog post](https://www.kickstarter.com/blog/by-the-numbers-when-creators-return-to-kickstarter) on creators who return to Kickstarter to run what we call repeat projects.

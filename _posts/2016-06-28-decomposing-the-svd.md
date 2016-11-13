@@ -2,7 +2,7 @@
 title: Decomposing the SVD
 excerpt: "Thoughts on the singular value decomposition."
 header:
-  overlay_color: "#333"
+  overlay_color: "#567"
 ---
 
 I’ve been an avid reader of Jeremy Kun’s blog [Math ∩ Programming](https://jeremykun.com/) for some time. I especially like how he explains challenging concepts with an ensemble of different perspectives, first building intuition, then diving into mathematical theorems and proofs, then showing an example in code, and usually including some practical applications along the way.

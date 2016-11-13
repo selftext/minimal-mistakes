@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 permalink: /music/
 title: "Music"
 author_profile: true
@@ -7,17 +7,6 @@ header:
   overlay_color: "#333"
 ---
 
-I play a variety of instruments. I also write music. 
+Eventually I'll add my past music projects here.
 
-Here's a list of music projects I can recall being involved with, in rough chronological order:
-
-- Luin
-- Chris & Eric (& sometimes Jeremy)
-- The Luxury Tax
-- [Budget Cuts Music](http://budgetcutsmusic.com)
-- The Germans
-- Can't Complain
-- Burbank International
-- [Jackson Arms](https://soundcloud.com/jacksonarms)
-- What Model Citizens
-- [The Company](https://soundcloud.com/thecompanysoundsystem)
+In the meantime, I'm currently diving deep into the history of Western classical music and thinking about the intersections of music and probability. I've started [a repo on music informatics](https://github.com/selftext/music-informatics) to explore where this might take me.

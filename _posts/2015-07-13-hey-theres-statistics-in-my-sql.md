@@ -2,7 +2,7 @@
 title: Hey, There's Statistics in my SQL!
 excerpt: "A hack to test the difference between two proportions in SQL."
 header:
-  overlay_color: "#333"
+  overlay_color: "#678"
 ---
 
 Recently at Kickstarter, I hacked together a way to do statistics in SQL to support A/B test reporting.
