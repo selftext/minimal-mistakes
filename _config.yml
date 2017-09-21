@@ -13,33 +13,33 @@ repository               : "selftext/selftext.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
-comments:
-  provider               : "staticman"
-  disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
-  discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    # https://developers.facebook.com/docs/plugins/comments
-    appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
-staticman:
-  allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "master"
-  commitMessage          : "New comment."
-  filename               : comment-{@timestamp}
-  format                 : "yml"
-  moderation             : true
-  path                   : "_data/comments/{options.slug}"
-  requiredFields         : ['name', 'email', 'message']
-  transforms:
-    email                : "md5"
-  generatedFields:
-    date:
-      type               : "date"
-      options:
-        format           : "iso8601"
+# comments:
+#   provider               : "staticman"
+#   disqus:
+#     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+#   discourse:
+#     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+#   facebook:
+#     # https://developers.facebook.com/docs/plugins/comments
+#     appid                :
+#     num_posts            : # 5 (default)
+#     colorscheme          : # "light" (default), "dark"
+# staticman:
+#   allowedFields          : ['name', 'email', 'url', 'message']
+#   branch                 : "master"
+#   commitMessage          : "New comment."
+#   filename               : comment-{@timestamp}
+#   format                 : "yml"
+#   moderation             : true
+#   path                   : "_data/comments/{options.slug}"
+#   requiredFields         : ['name', 'email', 'message']
+#   transforms:
+#     email                : "md5"
+#   generatedFields:
+#     date:
+#       type               : "date"
+#       options:
+#         format           : "iso8601"
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
