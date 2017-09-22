@@ -12,3 +12,7 @@ header:
 - **July 2017** - "Uncertainty in Online Experiments with Dependent Data" talk at Data Science Reading Group. *[Slides](https://github.com/selftext/talks/blob/master/2017_07_25_data_science_reading_group/Uncertainty%20in%20Online%20Experiments%20with%20Dependent%20Data%20-%20Data%20Science%20Reading%20Group%2007-25-17.pdf)*.
 
 - **February 2017** - "Data at Kickstarter" talk at [NYU Center for Data Science](https://cds.nyu.edu/). *[Slides](https://github.com/selftext/talks/blob/master/2017_02_10_nyu_center_for_data_science/Company%20Information%20Session%20for%20NYU%20Center%20for%20Data%20Science%20-%2002-10-17.pdf)*.
+
+- **October 2015** - "A/B Testing at Kickstarter" talk at Hillary Clinton campaign headquarters.
+
+- **May 2014** - "Data @ Kickstarter: A Guided Tour" talk at Kickstarter. *[Blog post](https://kickstarter.engineering/data-kickstarter-a-guided-tour-14c7d7dc1eed)*. *[Slides](https://speakerdeck.com/fredbenenson/data-at-kickstarter-a-guided-tour)*.
