@@ -1,6 +1,7 @@
 # production
 
 # site settings
+remote_theme             : "mmistakes/minimal-mistakes"
 locale                   : "en"
 title                    : "Jeremy Salfen"
 title_separator          : "-"
