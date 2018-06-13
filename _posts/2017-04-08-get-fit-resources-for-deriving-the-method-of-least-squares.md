@@ -2,7 +2,7 @@
 title: Get Fit - Resources for Deriving the Method of Least Squares
 excerpt: "Exploring one of the fundamental results of mathematical statistics."
 header:
-  overlay_color: "#699"
+  overlay_color: "#222"
 ---
 
 Stephen Stigler’s *The History of Statistics* is not for the faint of heart. It’s a deep exploration of the origins of statistics as a form of mathematical inquiry, from astronomy and geodesy in the late 18th century to social science in the 19th century. It assumes you’re familiar with modern proofs of results like the weak law of large numbers and the normal approximation to the binomial distribution. It’s an intellectual challenge, and I’m loving it.

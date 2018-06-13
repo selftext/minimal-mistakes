@@ -2,7 +2,7 @@
 title: Matching and Randomization in Experiments
 excerpt: "Thoughts on a classic paper on causality."
 header:
-  overlay_color: "#456"
+  overlay_color: "#888"
 ---
 
 I recently read Donald Rubin’s classic paper [Estimating Causal Effects of Treatments in Randomized and Nonrandomized Studies](http://dx.doi.org/10.1037/h0037350) ([PDF](http://www.biostat.jhsph.edu/~dscharf/Causal/rubin.journ.psych.ed.pdf)) as part of the Kickstarter Data team’s reading group.

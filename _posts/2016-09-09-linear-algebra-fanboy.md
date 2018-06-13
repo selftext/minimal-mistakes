@@ -2,7 +2,7 @@
 title: Linear Algebra Fanboy
 excerpt: "In which the author gushes over a video series he wishes he'd seen years ago."
 header:
-  overlay_color: "#890"
+  overlay_color: "#666"
 ---
 
 I can’t recommend the video series [Essence of Linear Algebra](https://www.khanacademy.org/math/linear-algebra/eola-topic) highly enough. These Khan Academy videos are a solid review if you haven’t studied linear algebra in a while. (I’m not sure whether they’re a good first introduction to the topic, but they’re certainly better than learning linear algebra as a series of operations on matrices that just happen to have strange magical powers.)

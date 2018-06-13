@@ -2,7 +2,7 @@
 title: Learning to Lead
 excerpt: "Pushing myself to do scary things."
 header:
-  overlay_color: "#789"
+  overlay_color: "#000"
 ---
 
 I’ve been managed in many jobs. I’ve got a pretty good idea I know what bad management looks like. But have those experiences prepared me to be a leader myself? I’m not so sure.

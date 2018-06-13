@@ -2,7 +2,7 @@
 title: An APC40 Mapping for Traktor
 excerpt: "Custom APC40 Traktor mapping I use when DJing with The Company Soundsystem."
 header:
-  overlay_color: "#901"
+  overlay_color: "#333"
 ---
 
 ![APC40 Traktor Mapping](/images/apc40_traktor_mapping.png)

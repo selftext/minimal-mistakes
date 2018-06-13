@@ -2,7 +2,7 @@
 title: Pair Learning at Kickstarter
 excerpt: "How we've incorporated continual learning into our work culture."
 header:
-  overlay_color: "#589"
+  overlay_color: "#111"
 ---
 
 A few months ago, [I wrote about the importance of rigorous thinking in the work I do]({{ site.baseurl }}/learning-to-lead/). Continual learning plays a key role to support that.

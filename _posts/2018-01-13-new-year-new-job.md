@@ -2,7 +2,7 @@
 title: New Year, New Job
 excerpt: "How I'm preparing for a new role."
 header:
-  overlay_color: "#824"
+  overlay_color: "#444"
 ---
 
 Life is change. I've found a new job. These are interrelated.

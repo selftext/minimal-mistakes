@@ -2,7 +2,7 @@
 title: Making Talks a Thing
 excerpt: "Want some slides? You've come to the right place."
 header:
-  overlay_color: "#486"
+  overlay_color: "#333"
 ---
 
 I’ve given a few talks this year. Two were focused on data work at Kickstarter, and one was a presentation of a paper by Eytan Bakshy and Dean Eckles on bootstrap methods for experiment analysis.

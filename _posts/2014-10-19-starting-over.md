@@ -2,7 +2,7 @@
 title: Starting Over
 excerpt: "Where I'm going. Where I've been."
 header:
-  overlay_color: "#012"
+  overlay_color: "#000"
 ---
 
 I recently shuttered my Wordpress blog www.onceyougodigital.com. I had two problems with it:

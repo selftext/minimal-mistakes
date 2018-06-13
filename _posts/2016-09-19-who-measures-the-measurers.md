@@ -2,7 +2,7 @@
 title: Who Measures the Measurers?
 excerpt: "How you think about metrics matters."
 header:
-  overlay_color: "#123"
+  overlay_color: "#777"
 ---
 
 Let’s say you’re a data-driven internet business. How do you know something is good? You measure it with metrics, of course. This has become [gospel](https://codeascraft.com/2011/02/15/measure-anything-measure-everything/) for a lot of organizations.

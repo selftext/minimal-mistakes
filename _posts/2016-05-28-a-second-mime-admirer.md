@@ -2,7 +2,7 @@
 title: A Second Mime Admirer
 excerpt: "How many can there be?"
 header:
-  overlay_color: "#234"
+  overlay_color: "#444"
 ---
 
 As of Saturday, May 28, 2016, there were only seven results on Google for the query [*”mime admirer”*](https://www.google.com/#q=%22mime%20admirer%22).
