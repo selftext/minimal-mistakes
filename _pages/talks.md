@@ -17,6 +17,6 @@ header:
 
 - **October 2015** - "A/B Testing at Kickstarter" talk at Hillary Clinton campaign headquarters.
 
-- **July 2015** - "Data Visualization" talk at Kickstarter for [Beyond Coding](https://beyondcoding.io/), a program of the [New York Tech Talent Pipeline](http://www.techtalentpipeline.nyc/). *[Slides](https://github.com/selftext/talks/blob/master/2015_07_28_nyttp_beyond_coding/Beyond%20Coding%20-%20Data%20Visualization.pdf)*.
+- **July 2015** - "Data Visualization" talk at Kickstarter for [Beyond Coding](https://beyondcoding.io/), a program of the [New York Tech Talent Pipeline](https://www.techtalentpipeline.nyc/). *[Slides](https://github.com/selftext/talks/blob/master/2015_07_28_nyttp_beyond_coding/Beyond%20Coding%20-%20Data%20Visualization.pdf)*.
 
 - **May 2014** - "Data @ Kickstarter: A Guided Tour" talk at Kickstarter. *[Blog post](https://kickstarter.engineering/data-kickstarter-a-guided-tour-14c7d7dc1eed)*. *[Slides](https://speakerdeck.com/fredbenenson/data-at-kickstarter-a-guided-tour)*.

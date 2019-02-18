@@ -39,7 +39,7 @@ I found myself gravitating toward a few key concepts: intellectual curiosity, lo
 
 After a few months of reflecting, writing, and talking, I distilled my thinking down to several core ideas, and I drafted a document. I shared this with my team and a few others, got feedback, revised, rinsed, repeated.
 
-As I thought about how to put these ideas into practice, I focused on an important question: How can I create a safe space for candid intellectual discussion? It’s one thing to say you value [candor](http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/), but it’s another thing to foster a culture where candid speaking is the norm. This is something I’m currently focused on.
+As I thought about how to put these ideas into practice, I focused on an important question: How can I create a safe space for candid intellectual discussion? It’s one thing to say you value [candor](https://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/), but it’s another thing to foster a culture where candid speaking is the norm. This is something I’m currently focused on.
 
 And so that leads us to the present day, and another important part of this process: sharing the document with the wider world.
 

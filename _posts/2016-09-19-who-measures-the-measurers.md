@@ -11,7 +11,7 @@ Fair enough, it’s hard to argue against metrics, though there’s a tendency t
 
 But how do you know if the metrics themselves are any good? Do you measure them with more metrics? *Is it metrics all the way down?*
 
-Indeed, that’s the lesson from Alex Deng and Xiaolin Shi in their KDD 2016 paper [Data-Driven Metric Development for Online Controlled Experiments: Seven Lessons Learned](http://www.kdd.org/kdd2016/subtopic/view/data-driven-metric-development-for-online-controlled-experiments-seven-less).
+Indeed, that’s the lesson from Alex Deng and Xiaolin Shi in their KDD 2016 paper [Data-Driven Metric Development for Online Controlled Experiments: Seven Lessons Learned](https://www.kdd.org/kdd2016/subtopic/view/data-driven-metric-development-for-online-controlled-experiments-seven-less).
 
 Deng and Shi propose a framework for evaluating metrics, particularly those used in online experiments. I’m not going to provide a full summary — e.g. there are parts about validation sets and degradation experiments you should read if you’re interested. Rather, I’m going to explore how Deng and Shi answer an essential question: *What makes a metric good?*
 

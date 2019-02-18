@@ -8,7 +8,7 @@ title_separator          : "-"
 name                     : "Jeremy Salfen"
 description              : > # this means to ignore newlines until "url:"
   There is no quality in this world that is not what it is merely by contrast. Nothing exists in itself.
-url                      : "http://jeremysalfen.com"
+url                      : "https://jeremysalfen.com"
 baseurl                  : # "/"
 repository               : "selftext/selftext.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -95,7 +95,7 @@ author:
   linkedin         : "jsalfen"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : # https://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
   twitter          : "jsalfen"
@@ -173,7 +173,7 @@ defaults:
 # sass/scss
 sass:
   sass_dir: _sass
-  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+  style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 # outputting
 permalink: /:categories/:title/
@@ -217,7 +217,7 @@ tag_archive:
 #     tag: /tags/:name/
 
 # html compression
-# - http://jch.penibelst.de/
+# - https://jch.penibelst.de/
 compress_html:
   clippings: all
   ignore:

@@ -11,10 +11,10 @@ As I’ve been working through Stigler’s book, I’ve been taking the time to 
 
 In order to shore up my own understanding and connect it to Legendre’s exposition, I worked through a number of resources, which I share below:
 
-- Here is [Legendre’s original work](http://www.stat.ucla.edu/history/legendre.pdf), translated into English
-- [Steven Miller’s explanation of the proof](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.710.4069&rep=rep1&type=pdf) in modern terms is remarkably clear
-- [This textbook explanation](http://math.mit.edu/~gs/linearalgebra/ila0403.pdf) offers different perspectives from geometry, algebra, and calculus
-- [The MathWorld article](http://mathworld.wolfram.com/LeastSquaresFitting.html) has a deep yet concise explanation, along with some simplifications that appear in many statistics textbooks
+- Here is [Legendre’s original work](https://www.stat.ucla.edu/history/legendre.pdf), translated into English
+- [Steven Miller’s explanation of the proof](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.710.4069&rep=rep1&type=pdf) in modern terms is remarkably clear
+- [This textbook explanation](https://math.mit.edu/~gs/linearalgebra/ila0403.pdf) offers different perspectives from geometry, algebra, and calculus
+- [The MathWorld article](https://mathworld.wolfram.com/LeastSquaresFitting.html) has a deep yet concise explanation, along with some simplifications that appear in many statistics textbooks
 - Though dry, [this video](https://www.youtube.com/watch?v=3hz6Tb1i2FY) covers the modern derivation thoroughly
 - [This video](https://www.youtube.com/watch?v=YwZYSTQs-Hk) demonstrates an application of least squares
 
