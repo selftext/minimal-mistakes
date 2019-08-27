@@ -15,4 +15,4 @@ I don’t know how many people have the original APC40 now that the MKII has com
 
 But if you are one of those people, this mapping is a blast. Have fun with it, and let me know if you find it useful.
 
-Download the mapping [here](https://dl.dropboxusercontent.com/u/14076882/jeremysalfen/import_traktor_settings.tsi).
+Download the mapping [here](https://www.dropbox.com/s/ca5fyhgmhw2o7b7/import_traktor_settings.tsi?dl=0).
