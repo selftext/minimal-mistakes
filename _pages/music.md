@@ -7,6 +7,7 @@ header:
   overlay_color: "#333"
 ---
 
-Eventually I'll add my past music projects here.
-
-In the meantime, I'm currently diving deep into the history of Western classical music and thinking about the intersections of music and probability. I've started [a repo on music informatics](https://github.com/selftext/music-informatics) to explore where this might take me.
+- [Business 80](https://www.budgetcutsmusic.com/p/business-80.html)
+- [The Company](https://soundcloud.com/thecompanysoundsystem/sets/the-company-live-sets)
+- [Jackson Arms](https://soundcloud.com/jacksonarms)
+- [The Luxury Tax](https://soundcloud.com/autobono/sets/pope-wreck-1)
